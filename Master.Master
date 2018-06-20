@@ -1,0 +1,116 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Web.Master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="CSS/Master.css" rel="stylesheet" />
+    <link href="CSS/Header.css" rel="stylesheet" />
+    <link href="CSS/Page.css" rel="stylesheet" />
+    <link href="CSS/Side.css" rel="stylesheet" />
+    <script src="js/myConcern.js"></script>
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="header">
+            <div id="logo"></div>
+            <div id="menu">
+                <div class="leftFloat"><a href="/Default.aspx">首页</a></div>
+                <div class="leftFloat"><a href="#">美食</a></div>
+                <div class="leftFloat"><a href="#">旅游</a></div>
+                <div class="leftFloat"><a href="#">游戏</a></div>
+                <div class="leftFloat"><a href="#">运动</a></div>
+                <div class="leftFloat"><a href="#">学习</a></div>
+                <div class="leftFloat"><a href="#">排行榜</a></div>
+                <div class="rightFloat"><a href="/Login.aspx" target="_blank">登陆</a></div>
+                <div class="rightFloat">|</div>
+                <div class="rightFloat"><a href="/Register.aspx" target="_blank">注册</a></div>
+            </div>
+        </div>
+        <div id="page">
+            <div id="leftSide">
+                <div>
+                    <div id="login">
+                        <a href="/EditInformation.aspx#middle">
+                            <img src="#" width="200" height="200" /></a>
+                        <input type="button" name="login" value="登录" />
+                        <input type="button" name="register" value="注册" />
+                    </div>
+                    <div id="myMsg">
+                        <div class="first">我的信息</div>
+                        <ul>
+                            <li><a href="/EditInformation.aspx#menu">修改信息</a></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="myConcern" data-selected="1">
+                    <div class="first">与我相关</div>
+                    <div onclick="clickDiv()" class="all">
+                        <img src="#" />&nbsp;我的关注
+                    </div>
+                    <div onclick="clickDiv()" class="all">
+                        <img src="#" />&nbsp;我的收藏
+                    </div>
+                    <div onclick="clickDiv()" class="all">
+                        <img src="#" />&nbsp;我的消息
+                    </div>
+                    <div onclick="clickDiv()" class="all">
+                        <img src="#" />&nbsp;我的评论
+                    </div>
+                    <div onclick="clickDiv()" class="all">
+                        <img src="#" />&nbsp;我的主题
+                    </div>
+                    <ul id="hide">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li>更多</li>
+                    </ul>
+                </div>
+            </div>
+            <div id="middle">
+                <asp:ContentPlaceHolder ID="Content" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div id="rightSide">
+                <div id="bulletin">
+                    <ul>
+                        <li class="first">论坛公告</li>
+                        <li><a href="#">公告1</a></li>
+                        <li><a href="#">公告2</a></li>
+                        <li><a href="#">公告3</a></li>
+                        <li><a href="#">公告4</a></li>
+                    </ul>
+                </div>
+                <div id="news">
+                    <ul>
+                        <li class="first">新闻资讯</li>
+                        <li><a href="#">新闻1</a></li>
+                        <li><a href="#">新闻2</a></li>
+                        <li><a href="#">新闻3</a></li>
+                        <li><a href="#">新闻4</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div id="footer">版权所有，翻版必究</div>
+    </form>
+</body>
+</html>
