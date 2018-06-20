@@ -1,0 +1,46 @@
+C:\Users\Administrator\Desktop\BBS\BBS\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\BBS\BBS\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\BBS\BBS\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\BBS\BBS\BLL\bin\Debug\IDAL.dll
+C:\Users\Administrator\Desktop\BBS\BBS\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\BBS\BBS\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\BBS\BBS\BLL\bin\Debug\IDAL.pdb
+C:\Users\Administrator\Desktop\BBS\BBS\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\BBS\BBS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BBS\BBS\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\BBS\BBS\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\BLL\bin\Debug\IDAL.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\BLL\bin\Debug\IDAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\BBS\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Desktop\BBS\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Desktop\BBS\BLL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\BBS\BLL\bin\Debug\IDAL.dll
+C:\Users\Administrator\Desktop\BBS\BLL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\BBS\BLL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\BBS\BLL\bin\Debug\IDAL.pdb
+C:\Users\Administrator\Desktop\BBS\BLL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\BBS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BBS\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Desktop\BBS\BLL\obj\Debug\BLL.pdb
+C:\Users\肖寰辉\Desktop\BBS\BLL\bin\Debug\BLL.dll
+C:\Users\肖寰辉\Desktop\BBS\BLL\bin\Debug\BLL.pdb
+C:\Users\肖寰辉\Desktop\BBS\BLL\bin\Debug\DAL.dll
+C:\Users\肖寰辉\Desktop\BBS\BLL\bin\Debug\IDAL.dll
+C:\Users\肖寰辉\Desktop\BBS\BLL\bin\Debug\Model.dll
+C:\Users\肖寰辉\Desktop\BBS\BLL\bin\Debug\DAL.pdb
+C:\Users\肖寰辉\Desktop\BBS\BLL\bin\Debug\IDAL.pdb
+C:\Users\肖寰辉\Desktop\BBS\BLL\bin\Debug\Model.pdb
+C:\Users\肖寰辉\Desktop\BBS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\肖寰辉\Desktop\BBS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\肖寰辉\Desktop\BBS\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\肖寰辉\Desktop\BBS\BLL\obj\Debug\BLL.dll
+C:\Users\肖寰辉\Desktop\BBS\BLL\obj\Debug\BLL.pdb

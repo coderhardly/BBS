@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\BBS\BBS\IDAL\bin\Debug\IDAL.dll
+C:\Users\Administrator\Desktop\BBS\BBS\IDAL\bin\Debug\IDAL.pdb
+C:\Users\Administrator\Desktop\BBS\BBS\IDAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\BBS\BBS\IDAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\BBS\BBS\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BBS\BBS\IDAL\obj\Debug\IDAL.dll
+C:\Users\Administrator\Desktop\BBS\BBS\IDAL\obj\Debug\IDAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\IDAL\bin\Debug\IDAL.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\IDAL\bin\Debug\IDAL.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\IDAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\IDAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\IDAL\obj\Debug\IDAL.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\BBS\IDAL\obj\Debug\IDAL.pdb
+C:\Users\Administrator\Desktop\BBS\IDAL\bin\Debug\IDAL.dll
+C:\Users\Administrator\Desktop\BBS\IDAL\bin\Debug\IDAL.pdb
+C:\Users\Administrator\Desktop\BBS\IDAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\BBS\IDAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\BBS\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BBS\IDAL\obj\Debug\IDAL.dll
+C:\Users\Administrator\Desktop\BBS\IDAL\obj\Debug\IDAL.pdb
+C:\Users\肖寰辉\Desktop\BBS\IDAL\bin\Debug\IDAL.dll
+C:\Users\肖寰辉\Desktop\BBS\IDAL\bin\Debug\IDAL.pdb
+C:\Users\肖寰辉\Desktop\BBS\IDAL\bin\Debug\Model.dll
+C:\Users\肖寰辉\Desktop\BBS\IDAL\bin\Debug\Model.pdb
+C:\Users\肖寰辉\Desktop\BBS\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\肖寰辉\Desktop\BBS\IDAL\obj\Debug\IDAL.csproj.CoreCompileInputs.cache
+C:\Users\肖寰辉\Desktop\BBS\IDAL\obj\Debug\IDAL.csproj.CopyComplete
+C:\Users\肖寰辉\Desktop\BBS\IDAL\obj\Debug\IDAL.dll
+C:\Users\肖寰辉\Desktop\BBS\IDAL\obj\Debug\IDAL.pdb
